@@ -2,3 +2,4 @@ Acme-CPANModules-ConvertingFromRegex-*
 .build
 *~
 nytprof*
+.DS_Store
